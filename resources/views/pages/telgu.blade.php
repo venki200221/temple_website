@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SVSDT</title>
+    <title>SVGSDC</title>
 <link href="/css/home.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -65,7 +65,7 @@
                     </div>
                   </div>
                
-                  <a class="nav-link nav-item" href="#donate">
+                  <a class="nav-link nav-item" href="/telgudonate">
                     <button type="button" class="btn btn-primary ">మాకు విరాళం ఇవ్వండి</button>
                      </a>
                  

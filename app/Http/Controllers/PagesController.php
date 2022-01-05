@@ -33,4 +33,16 @@ class PagesController extends Controller
     public function kannada(){
         return view('pages.kannada');
     }
+    public function donate(){
+        return view('pages.donateus');
+    }
+    public function teldonate(){
+        return view('pages.telgu_donate');
+    }
+    public function kandonate(){
+        return view('pages.kannada_donate');
+    }
+    public function hindonate(){
+        return view('pages.hindi_donate');
+    }
 }

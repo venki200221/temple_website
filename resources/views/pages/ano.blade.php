@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SVSDT</title>
+    <title>SVGSDC</title>
 <link href="/css/home.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -57,13 +57,13 @@
                     </button>
                     <div class="dropdown-menu">
                       <a class="dropdown-item" href="/">English</a>
-                      <a class="dropdown-item" href="/telgu">TELGU</a>
+                      <a class="dropdown-item" href="/telgu">TELUGU</a>
                       <a class="dropdown-item" href="/kannada">KANNADA</a>
                       <a class="dropdown-item" href="/hindi">HINDI</a>                      
                     </div>
                   </div>
                   
-                  <a class="nav-link nav-item" href="#donate">
+                  <a class="nav-link nav-item" href="/donate">
                     <button type="button" class="btn btn-primary ">DONATE US</button>
                      </a>
    
@@ -74,7 +74,7 @@
           </nav>
     </div>
     <div class="top">
-      <h1 class="temple_name">SRI VENUGOPALA SWAMY TEMPLE</h1>
+      <h1 class="temple_name">SRI VENUGOPALA SWAMY TEMPLE (R)</h1>
       <img class="home_img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34wApYijZwm6CHEcgqwxyNJQQ4QghSWc14Q&usqp=CAU">
      </div>
      

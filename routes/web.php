@@ -14,11 +14,11 @@ use Illuminate\Support\Facades\Route;
 */ 
 
 Route::get('/telgu','App\Http\Controllers\PagesController@telgu');
-Route::get('/test','App\Http\Controllers\PagesController@home');
-Route::get('/register','App\Http\Controllers\PagesController@register');
-Route::get('/login','App\Http\Controllers\PagesController@login');
 Route::get('/gallery','App\Http\Controllers\PagesController@gallery');
 Route::get('/','App\Http\Controllers\PagesController@ano');
 Route::get('/hindi','App\Http\Controllers\PagesController@hindi');
 Route::get('/kannada','App\Http\Controllers\PagesController@kannada');
-Route::get('/verify','App\Http\Controllers\PagesController@verify');
+Route::get('/donate','App\Http\Controllers\PagesController@donate');
+Route::get('/kannadadonate','App\Http\Controllers\PagesController@kandonate');
+Route::get('/telgudonate','App\Http\Controllers\PagesController@teldonate');
+Route::get('/hindidonate','App\Http\Controllers\PagesController@hindonate');
